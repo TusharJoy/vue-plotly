@@ -5,7 +5,7 @@ A thin wrapper of Plotly.js for Vue 3. This package provides a Vue component tha
 ## Installation
 
 ```bash
-npm install @tushar/vue-plotly
+npm install @tusharjoy/vue-plotly
 ```
 ## Usage
 
@@ -16,7 +16,7 @@ In your Vue component:
 </template>
 
 <script>
-import VuePlotly from 'vue-plotly';
+import VuePlotly from '@tusharjoy/vue-plotly';
 
 export default {
 	components: {
