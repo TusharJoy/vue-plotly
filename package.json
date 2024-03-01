@@ -1,0 +1,17 @@
+{
+  "name": "@tusharjoy/vue-plotly",
+  "version": "1.0.0",
+  "description": "Vue Plotly is a lightweight wrapper of Plotly.js for Vue 3. It provides a Vue component for easy integration of Plotly.js, enabling creation of interactive, feature-rich charts with minimal code in Vue 3 applications.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue", "plotly", "chart", "data visualization", "vue 3", "plotly.js", "wrapper"],
+  "author": "Tushar Ghosh Joy <tusharghoshjoy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "plotly.js-dist-min": "^2.29.1"
+  },
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  }
+}
